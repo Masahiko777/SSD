@@ -98,7 +98,7 @@ plt.plot(times, omegas)
 plt.title("Angular Velocity")
 plt.xlabel("Time (seconds)")
 plt.ylabel("Angular Velocity (rad/s)")
-plt.legend(['wx', 'wy', 'wz'])
+plt.legend(['É÷x', 'É÷y', 'É÷z'])
 
 # Plotting the Euler angles in degrees
 plt.subplot(1, 3, 3)
